@@ -1,5 +1,5 @@
 # Reviews Classifier in Python
-This project will involve feature representation of text data, implementation of perceptron algorithm, as well as gradient descent in Python.
+This project involves feature representation of text data, implementation of perceptron algorithm, as well as gradient descent in Python.
 
 ### Project Structure
 This repository has the following structure
