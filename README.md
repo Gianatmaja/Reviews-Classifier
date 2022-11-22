@@ -29,6 +29,6 @@ perceptron.py file), as well as a gradient descent algorithm (with functions imp
 regulariser.
 
 ### Snapshots of Training Process
-![Perceptron](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Reviews-Classifier/images/Screenshot%202022-10-10%20at%2010.05.56%20PM.png)
+![Perceptron](https://github.com/Gianatmaja/Reviews-Classifier/blob/main/images/Screenshot%202022-10-10%20at%2010.05.56%20PM.png)
 
-![gd](https://github.com/Gianatmaja/Statistical-Machine-Learning-in-Python/blob/main/Reviews-Classifier/images/Screenshot%202022-10-10%20at%2010.06.05%20PM.png)
+![gd](https://github.com/Gianatmaja/Reviews-Classifier/blob/main/images/Screenshot%202022-10-10%20at%2010.06.05%20PM.png)
